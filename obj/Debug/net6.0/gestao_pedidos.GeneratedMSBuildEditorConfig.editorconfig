@@ -5,6 +5,7 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gestao_pedidos
 build_property.RootNamespace = gestao_pedidos
@@ -45,6 +46,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/SENAI/Desafio Sistema Distribuído/gestao_pedidos/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SENAI/Desafio Sistema Distribuído/gestao_pedidos/Pages/Pedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVkaWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SENAI/Desafio Sistema Distribuído/gestao_pedidos/Pages/Pedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVkaWRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SENAI/Desafio Sistema Distribuído/gestao_pedidos/Pages/Pedido/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVkaWRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/SENAI/Desafio Sistema Distribuído/gestao_pedidos/Pages/Pedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVkaWRvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/SENAI/Desafio Sistema Distribuído/gestao_pedidos/Pages/Privacy.cshtml]
