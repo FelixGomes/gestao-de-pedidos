@@ -268,11 +268,6 @@ C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\gestao_ped
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\gestao_pedidos.MvcApplicationPartsAssemblyInfo.cache
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\gestao_pedidos.RazorAssemblyInfo.cache
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\gestao_pedidos.RazorAssemblyInfo.cs
-C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets\msbuild.gestao_pedidos.Microsoft.AspNetCore.StaticWebAssets.props
-C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets\msbuild.build.gestao_pedidos.props
-C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gestao_pedidos.props
-C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gestao_pedidos.props
-C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets.pack.json
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets.build.json
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets.development.json
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
@@ -284,3 +279,8 @@ C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\refint\ges
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\gestao_pedidos.pdb
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\gestao_pedidos.genruntimeconfig.cache
 C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\ref\gestao_pedidos.dll
+C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets\msbuild.gestao_pedidos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets\msbuild.build.gestao_pedidos.props
+C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gestao_pedidos.props
+C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gestao_pedidos.props
+C:\SENAI\Desafio Sistema Distribuído\gestao_pedidos\obj\Debug\net6.0\staticwebassets.pack.json
