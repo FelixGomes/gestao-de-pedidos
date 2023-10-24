@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7kDVWMDC6OdPnkpQQEcOMhoP90I3VfIwVt+sLurlyUwT9uw4SCYcdC6y2GRvPanQFyRhgEprYVYa+bsd9DcyFw==",
+  "dgSpecHash": "pGIcHMwa0hglnmH4p1Bs8AEJVbB5ajLBOR+laVYtM/EUsX3ow7QyucTy1r2WKlm4fAUZ1r7mY00PbODs4Qx+Pw==",
   "success": true,
   "projectFilePath": "C:\\SENAI\\Desafio Sistema Distribuído\\gestao_pedidos\\gestao_pedidos.csproj",
   "expectedPackageFiles": [
@@ -183,11 +183,7 @@
     "C:\\Users\\gusta\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
-    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+    "C:\\Users\\gusta\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
