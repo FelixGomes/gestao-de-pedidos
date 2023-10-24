@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\gestao_pedidos.props" />
+</Project>
