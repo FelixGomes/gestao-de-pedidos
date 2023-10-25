@@ -12,7 +12,7 @@ namespace gestao_pedidos.Models
         public string Descricao { get; set; }
 
         [Display(Name = "Valor Unitario")]
-        public decimal ValorUnitario { get; set; }
+        public Double ValorUnitario { get; set; }
 
         [Display(Name = "Qtde em Estoque")]
         public int QuantidadeEmEstoque { get; set; }

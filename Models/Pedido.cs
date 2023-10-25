@@ -13,7 +13,7 @@ namespace gestao_pedidos.Models
         public List<ItemPedido> Itens { get; set; } // Lista de itens do pedido
 
         [Display(Name = "Valor Total")]
-        public decimal ValorTotal { get; set; }
+        public Double ValorTotal { get; set; }
 
         [Display(Name = "Data de Entrega")]
         public DateTime DataEntrega { get; set; }

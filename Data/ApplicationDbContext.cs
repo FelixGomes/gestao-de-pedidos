@@ -11,6 +11,6 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
     public DbSet<gestao_pedidos.Models.Cliente> Cliente { get; set; } = default!;
-    public DbSet<gestao_pedidos.Models.Produto> Produto { get; set; }
-    public DbSet<gestao_pedidos.Models.Pedido> Pedido { get; set; }
+    public DbSet<gestao_pedidos.Models.Produto> Produto { get; set; } = default!;
+    public DbSet<gestao_pedidos.Models.Pedido> Pedido { get; set; } = default!;
 }
