@@ -10,7 +10,7 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
-    public DbSet<gestao_pedidos.Models.Cliente> Cliente { get; set; } = default!;
-    public DbSet<gestao_pedidos.Models.Produto> Produto { get; set; } = default!;
-    public DbSet<gestao_pedidos.Models.Pedido> Pedido { get; set; } = default!;
+    public DbSet<Cliente> Cliente { get; set; }
+    public DbSet<Produto> Produto { get; set; }
+    public DbSet<Pedido> Pedido { get; set; }   
 }
